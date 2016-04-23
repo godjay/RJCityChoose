@@ -9,7 +9,6 @@
 #import "ViewController.h"
 #import "RJtableView.h"
 
-
 @implementation ViewController
 
 - (void)viewDidLoad {

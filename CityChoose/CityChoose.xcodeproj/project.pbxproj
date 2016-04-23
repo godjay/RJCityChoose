@@ -15,13 +15,13 @@
 		ACC2497B1CC87B15009DDA8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC249791CC87B15009DDA8C /* LaunchScreen.storyboard */; };
 		ACC249861CC87B15009DDA8C /* CityChooseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249851CC87B15009DDA8C /* CityChooseTests.m */; };
 		ACC249911CC87B15009DDA8C /* CityChooseUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249901CC87B15009DDA8C /* CityChooseUITests.m */; };
-		ACC249AB1CC87B24009DDA8C /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = ACC2499F1CC87B24009DDA8C /* more.png */; };
-		ACC249AC1CC87B24009DDA8C /* Provineces.plist in Resources */ = {isa = PBXBuildFile; fileRef = ACC249A01CC87B24009DDA8C /* Provineces.plist */; };
-		ACC249AD1CC87B24009DDA8C /* RJCity.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249A21CC87B24009DDA8C /* RJCity.m */; };
-		ACC249AE1CC87B24009DDA8C /* RJHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249A41CC87B24009DDA8C /* RJHeaderView.m */; };
-		ACC249AF1CC87B24009DDA8C /* RJProvince.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249A61CC87B24009DDA8C /* RJProvince.m */; };
-		ACC249B01CC87B24009DDA8C /* RJTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249A81CC87B24009DDA8C /* RJTableViewCell.m */; };
-		ACC249CB1CC8DD24009DDA8C /* RJtableView.m in Sources */ = {isa = PBXBuildFile; fileRef = ACC249CA1CC8DD24009DDA8C /* RJtableView.m */; };
+		ACD3AC7F1CCB186900A287DC /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = ACD3AC731CCB186900A287DC /* more.png */; };
+		ACD3AC801CCB186900A287DC /* Provineces.plist in Resources */ = {isa = PBXBuildFile; fileRef = ACD3AC741CCB186900A287DC /* Provineces.plist */; };
+		ACD3AC811CCB186900A287DC /* RJCity.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD3AC761CCB186900A287DC /* RJCity.m */; };
+		ACD3AC821CCB186900A287DC /* RJHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD3AC781CCB186900A287DC /* RJHeaderView.m */; };
+		ACD3AC831CCB186900A287DC /* RJProvince.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD3AC7A1CCB186900A287DC /* RJProvince.m */; };
+		ACD3AC841CCB186900A287DC /* RJtableView.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD3AC7C1CCB186900A287DC /* RJtableView.m */; };
+		ACD3AC851CCB186900A287DC /* RJTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD3AC7E1CCB186900A287DC /* RJTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,18 +58,18 @@
 		ACC2498C1CC87B15009DDA8C /* CityChooseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CityChooseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACC249901CC87B15009DDA8C /* CityChooseUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CityChooseUITests.m; sourceTree = "<group>"; };
 		ACC249921CC87B15009DDA8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ACC2499F1CC87B24009DDA8C /* more.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more.png; sourceTree = "<group>"; };
-		ACC249A01CC87B24009DDA8C /* Provineces.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Provineces.plist; sourceTree = "<group>"; };
-		ACC249A11CC87B24009DDA8C /* RJCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCity.h; sourceTree = "<group>"; };
-		ACC249A21CC87B24009DDA8C /* RJCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCity.m; sourceTree = "<group>"; };
-		ACC249A31CC87B24009DDA8C /* RJHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJHeaderView.h; sourceTree = "<group>"; };
-		ACC249A41CC87B24009DDA8C /* RJHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJHeaderView.m; sourceTree = "<group>"; };
-		ACC249A51CC87B24009DDA8C /* RJProvince.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJProvince.h; sourceTree = "<group>"; };
-		ACC249A61CC87B24009DDA8C /* RJProvince.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJProvince.m; sourceTree = "<group>"; };
-		ACC249A71CC87B24009DDA8C /* RJTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJTableViewCell.h; sourceTree = "<group>"; };
-		ACC249A81CC87B24009DDA8C /* RJTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJTableViewCell.m; sourceTree = "<group>"; };
-		ACC249C91CC8DD24009DDA8C /* RJtableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJtableView.h; sourceTree = "<group>"; };
-		ACC249CA1CC8DD24009DDA8C /* RJtableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJtableView.m; sourceTree = "<group>"; };
+		ACD3AC731CCB186900A287DC /* more.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more.png; sourceTree = "<group>"; };
+		ACD3AC741CCB186900A287DC /* Provineces.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Provineces.plist; sourceTree = "<group>"; };
+		ACD3AC751CCB186900A287DC /* RJCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCity.h; sourceTree = "<group>"; };
+		ACD3AC761CCB186900A287DC /* RJCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCity.m; sourceTree = "<group>"; };
+		ACD3AC771CCB186900A287DC /* RJHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJHeaderView.h; sourceTree = "<group>"; };
+		ACD3AC781CCB186900A287DC /* RJHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJHeaderView.m; sourceTree = "<group>"; };
+		ACD3AC791CCB186900A287DC /* RJProvince.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJProvince.h; sourceTree = "<group>"; };
+		ACD3AC7A1CCB186900A287DC /* RJProvince.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJProvince.m; sourceTree = "<group>"; };
+		ACD3AC7B1CCB186900A287DC /* RJtableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJtableView.h; sourceTree = "<group>"; };
+		ACD3AC7C1CCB186900A287DC /* RJtableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJtableView.m; sourceTree = "<group>"; };
+		ACD3AC7D1CCB186900A287DC /* RJTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJTableViewCell.h; sourceTree = "<group>"; };
+		ACD3AC7E1CCB186900A287DC /* RJTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,7 +120,7 @@
 		ACC2496A1CC87B15009DDA8C /* CityChoose */ = {
 			isa = PBXGroup;
 			children = (
-				ACC2499E1CC87B24009DDA8C /* CityView */,
+				ACD3AC721CCB186900A287DC /* CityView */,
 				ACC2496E1CC87B15009DDA8C /* AppDelegate.h */,
 				ACC2496F1CC87B15009DDA8C /* AppDelegate.m */,
 				ACC249711CC87B15009DDA8C /* ViewController.h */,
@@ -160,21 +160,21 @@
 			path = CityChooseUITests;
 			sourceTree = "<group>";
 		};
-		ACC2499E1CC87B24009DDA8C /* CityView */ = {
+		ACD3AC721CCB186900A287DC /* CityView */ = {
 			isa = PBXGroup;
 			children = (
-				ACC2499F1CC87B24009DDA8C /* more.png */,
-				ACC249A01CC87B24009DDA8C /* Provineces.plist */,
-				ACC249A11CC87B24009DDA8C /* RJCity.h */,
-				ACC249A21CC87B24009DDA8C /* RJCity.m */,
-				ACC249A51CC87B24009DDA8C /* RJProvince.h */,
-				ACC249A61CC87B24009DDA8C /* RJProvince.m */,
-				ACC249C91CC8DD24009DDA8C /* RJtableView.h */,
-				ACC249CA1CC8DD24009DDA8C /* RJtableView.m */,
-				ACC249A71CC87B24009DDA8C /* RJTableViewCell.h */,
-				ACC249A81CC87B24009DDA8C /* RJTableViewCell.m */,
-				ACC249A31CC87B24009DDA8C /* RJHeaderView.h */,
-				ACC249A41CC87B24009DDA8C /* RJHeaderView.m */,
+				ACD3AC731CCB186900A287DC /* more.png */,
+				ACD3AC741CCB186900A287DC /* Provineces.plist */,
+				ACD3AC751CCB186900A287DC /* RJCity.h */,
+				ACD3AC761CCB186900A287DC /* RJCity.m */,
+				ACD3AC771CCB186900A287DC /* RJHeaderView.h */,
+				ACD3AC781CCB186900A287DC /* RJHeaderView.m */,
+				ACD3AC791CCB186900A287DC /* RJProvince.h */,
+				ACD3AC7A1CCB186900A287DC /* RJProvince.m */,
+				ACD3AC7B1CCB186900A287DC /* RJtableView.h */,
+				ACD3AC7C1CCB186900A287DC /* RJtableView.m */,
+				ACD3AC7D1CCB186900A287DC /* RJTableViewCell.h */,
+				ACD3AC7E1CCB186900A287DC /* RJTableViewCell.m */,
 			);
 			path = CityView;
 			sourceTree = "<group>";
@@ -284,9 +284,9 @@
 			files = (
 				ACC2497B1CC87B15009DDA8C /* LaunchScreen.storyboard in Resources */,
 				ACC249781CC87B15009DDA8C /* Assets.xcassets in Resources */,
-				ACC249AB1CC87B24009DDA8C /* more.png in Resources */,
+				ACD3AC7F1CCB186900A287DC /* more.png in Resources */,
 				ACC249761CC87B15009DDA8C /* Main.storyboard in Resources */,
-				ACC249AC1CC87B24009DDA8C /* Provineces.plist in Resources */,
+				ACD3AC801CCB186900A287DC /* Provineces.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,13 +311,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACC249AD1CC87B24009DDA8C /* RJCity.m in Sources */,
-				ACC249B01CC87B24009DDA8C /* RJTableViewCell.m in Sources */,
+				ACD3AC811CCB186900A287DC /* RJCity.m in Sources */,
 				ACC249731CC87B15009DDA8C /* ViewController.m in Sources */,
 				ACC249701CC87B15009DDA8C /* AppDelegate.m in Sources */,
-				ACC249CB1CC8DD24009DDA8C /* RJtableView.m in Sources */,
-				ACC249AF1CC87B24009DDA8C /* RJProvince.m in Sources */,
-				ACC249AE1CC87B24009DDA8C /* RJHeaderView.m in Sources */,
+				ACD3AC851CCB186900A287DC /* RJTableViewCell.m in Sources */,
+				ACD3AC831CCB186900A287DC /* RJProvince.m in Sources */,
+				ACD3AC841CCB186900A287DC /* RJtableView.m in Sources */,
+				ACD3AC821CCB186900A287DC /* RJHeaderView.m in Sources */,
 				ACC2496D1CC87B15009DDA8C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
